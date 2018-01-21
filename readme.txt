@@ -43,8 +43,11 @@ AT+ZCDRUN=F
 ==
 
 Предупреждение:
-патчи для прошивки WEB_BLERUSMF667V1.0.0B02.
+patches - патчи для прошивки WEB_BLERUSMF667V1.0.0B02
+0B05 - патчи для прошивки WEB_BLERUSMF667V1.0.0B05
+
 Посмотреть версию Web UI можно в efs/web/version
+
 
 Готовые правки (баланс, мой номер)
  patches/js/home.js
